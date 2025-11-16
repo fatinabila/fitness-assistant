@@ -7,11 +7,11 @@ A modern fitness tracking application built with Next.js that helps you log and 
 ## Screenshots
 
 ### Workout Session
-![Workout Session](./public/screenshots/workout-session.png)
+![Workout Session](./public/workout-session.png)
 *Track your exercises in real-time with animated GIFs and live timer*
 
 ### Exercise Library
-![Exercise Library](./public/screenshots/exercise-library.png)
+![Exercise Library](./public/exercise-library.png)
 *Browse exercises by muscle group with detailed animations*
 
 
@@ -157,6 +157,15 @@ Body: {
   }>
 }
 ```
+
+## Roadmap
+
+- **Model Context Protocol (MCP) Integration**
+  - Implement MCP server integration to provide AI-powered nutrition guidance and workout recommendations through standardized protocol communication.
+  - Planned features:
+    - **Nutrition Assistant**: Connect to MCP servers that can analyze user data and provide personalized meal suggestions, calorie/macronutrient targets, and nutrition advice.
+    - **Workout Recommendations**: Integrate with MCP servers to suggest optimal exercises, set/rep schemes, and progressive overload based on user history and goals.
+  - **Implementation Plan**: Start with basic MCP client implementation, then add specific nutrition and fitness MCP server integrations for enhanced AI-powered assistance.
 
 ## License
 
