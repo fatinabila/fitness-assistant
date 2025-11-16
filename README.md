@@ -7,11 +7,13 @@ A modern fitness tracking application built with Next.js that helps you log and 
 ## Screenshots
 
 ### Workout Session
-![Workout Session](./public/workout-session.png)
+<img src="./public/workout-session.png" alt="Workout Session" width="200">
+
 *Track your exercises in real-time with animated GIFs and live timer*
 
 ### Exercise Library
-![Exercise Library](./public/exercise-library.png)
+<img src="./public/exercise-library.png" alt="Exercise Library" width="200">
+
 *Browse exercises by muscle group with detailed animations*
 
 
